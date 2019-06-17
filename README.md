@@ -1,5 +1,4 @@
 # testbot86
-Mobile robot platform that fits a Raspberry Pi Zero and more into a tiny 86mm square package: CAD and image repository
 
 ## v1.0.0 (Design frozen April 2019)
 
