@@ -4,7 +4,7 @@
 ![](v100/art-01.png)
 ![](v100/cad.png)
 
-CAD files are located in the v100 folder (coming soon).
+CAD files are located in the v100 folder.
 
 Internals are the same as the prototype internals shown below. Vertical space has been slightly increased and the chassis has been stiffened. 
 
